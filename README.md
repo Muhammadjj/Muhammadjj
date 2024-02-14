@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
-<h3 align="center">My name is Jawad. I am a App develper and differnt language make it.</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Jawad Hassan </h1>
+<h3 align="center">My name is Jawad. I am a App develper and differnt language make it But Specialize Dart , Java, Android Studio , Flutter SDK , Zego Cloud Streaming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadjj&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadjj" /> </p>
 
